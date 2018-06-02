@@ -1,7 +1,7 @@
 # Unity-SimpleGrid-Shader
 Simple procedural grid shader with GUI customizable parameters
 
-#Usage
+# Usage
 
 Drag and drop both Shader and Material files in your project. The Material can then be edited and also dropped on a gameobject mesh inside Unity. 
 
